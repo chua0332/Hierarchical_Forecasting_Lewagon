@@ -131,7 +131,7 @@ dmypy.json
 
 .ipynb_checkpoints
 .DS_Store
-raw_data/
+data/
 *.csv
 **/__pycache__/
 .env
