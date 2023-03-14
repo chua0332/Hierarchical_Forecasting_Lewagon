@@ -1,2 +1,2 @@
 # Hierarchical_Forecasting_Lewagon
-In this final project, the team is tackling the [M5 Forecasting Competition](https://www.kaggle.com/c/m5-forecasting-accuracy) which is essentially a complex hierarchical forecasting problem.
+In this final project, the team is tackling the [M5 Forecasting Competition](https://www.kaggle.com/c/m5-forecasting-accuracy) which is essentially a complex hierarchical forecasting problem. To deal with the hierarchical nature of the dataset, the team will largely be leveraging the SKtime package which provide functions that are well designed to handle hierarchical data.
